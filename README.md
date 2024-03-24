@@ -1,5 +1,5 @@
 # Elton's Personal Website
 
-To view the website, clone the repository and use github liveserver extension.
+To view the website, [here.](https://lc37819.github.io/Personal-Website/)
 
 ![preview img](/preview.png)
